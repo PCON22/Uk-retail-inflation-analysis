@@ -66,7 +66,9 @@ Based on the data and regression analysis, it is clear that the cost-of-living c
 If a similar crisis happens in the future, here are three practical solutions based on this analysis:
 
 **Targeted Tax Cuts:** The government could temporarily reduce VAT or taxes on essential items (like food, heating, and fuel). By lowering the tax on essentials, households keep more of their money, allowing them to continue spending on non-essential retail and keeping the economy moving.
+
 **Targeted Support for Vulnerable Households:** Because the data shows that non-essential retail suffers the most, the government should provide direct financial support (like energy grants) to low-income families. This prevents them from cutting all discretionary spending, which protects retail jobs.
+
 **Support for Retailers:** The government could offer business rates relief for physical retail stores (especially clothing and household goods) which were hit the hardest by the drop in consumer spending. 
 
 **Final Thought:** 
