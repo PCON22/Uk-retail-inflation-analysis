@@ -1,0 +1,6 @@
+"sector","n","mean_retail","median_retail","sd_retail","min_retail","max_retail","range_retail"
+"Household goods stores",84,109.835714285714,110.85,10.8197793316155,54.3,135.6,81.3
+"Non-store retailing",84,97.7952380952381,98.05,19.6920441690822,67.6,137.5,69.9
+"Predominantly automotive fuel",84,103.255952380952,105.85,10.9332735338681,44.5,116.4,71.9
+"Predominantly food stores",84,104.711904761905,104.05,3.73383761244669,95.6,113.5,17.9
+"Textile, clothing and footwear stores",84,95.4547619047619,100.2,14.233596813732,32.3,105.7,73.4
